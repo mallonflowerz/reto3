@@ -7,5 +7,5 @@ Funcional con Android y Web
 
 
 ## Nota:
-Esta solucion de la aplicacion fue hecha por Marlon caleb Florez Duarte y Jhonier Ballestos
+Esta solucion de la aplicacion fue hecha por Marlon Caleb Florez Duarte y Jhoiner Ballesteros Quiceno. los demas miembros del grupo no participaron ni aportaron nada a la realizacion de la app.
 
