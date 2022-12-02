@@ -5,7 +5,7 @@ Funcional con Android y Web
 
 ![chat](https://raw.githubusercontent.com/mallonflowerz/reto3/master/demostracionAppreto3.gif)
 
-Solución:
 
-https://github.com/MisionTIC4b/f_chat
+## Nota:
+Esta solucion de la aplicacion fue hecha por Marlon caleb Florez Duarte y Jhonier Ballestos
 
